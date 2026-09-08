@@ -1,0 +1,6 @@
+# Byte-compiled / env / temp
+__pycache__/
+*.pyc
+.env
+*.log
+/tmp/
